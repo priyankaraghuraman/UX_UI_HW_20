@@ -1,0 +1,166 @@
+
+
+/* Bootstrap Homepage */
+
+background: #E5E5E5;
+Width = 2702px;
+Height=2630px;
+Top =-1935px;
+Left = 2280px;
+Blend= Pass through
+#FFFFFF
+
+
+
+position: relative;
+width: 2702px;
+height: 2630px;
+
+background: #FFFFFF;
+
+
+position: absolute;
+width: 2702px;
+height: 453px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+position: absolute;
+width: 956px;
+height: 116px;
+left: 873px;
+top: 191px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 116px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 2702px;
+height: 113px;
+left: 0px;
+top: 453px;
+
+background: #272222;
+/* Home */
+
+
+position: absolute;
+width: 106px;
+height: 52px;
+left: 38px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+
+/* Cooking */
+
+
+position: absolute;
+width: 148px;
+height: 52px;
+left: 219px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+
+/* Baking */
+
+
+position: absolute;
+width: 121px;
+height: 52px;
+left: 434px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+
+/* Dessert */
+
+
+position: absolute;
+width: 131px;
+height: 52px;
+left: 632px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+
+/* Trivia */
+
+
+position: absolute;
+width: 106px;
+height: 52px;
+left: 830px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+
+
+/* Catering */
+
+
+position: absolute;
+width: 150px;
+height: 52px;
+left: 993px;
+top: 483px;
+
+font-family: 'Kaisei Opti';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
